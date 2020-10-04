@@ -1,0 +1,15 @@
+{
+  "name": "serverless-bundle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.ts",
+  "scripts": {
+    "test": "serverless-bundle test"
+  },
+  "author": "darkship",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "serverless-bundle": "^3.1.0"
+  }
+}
